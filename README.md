@@ -11,43 +11,27 @@
 
 ### 👨‍🚀 About Me
 - 🎓 **Senior Aerospace Engineering Student** at Cairo University.
-- 🛸 **Control Sub-team Lead** at UDC Lab, specializing in UAV navigation and stability.
-- 👁️ **Computer Vision Enthusiast** currently working on real-time 3D Gaussian Splatting for SLAM.
-- 🏎️ **Formula Student Alum** with experience in CFD and structural analysis for braking systems.
-
----
+- 🛸 **Control Sub-team Member @ UDC Lab:** Specialized in UAV flight control systems, autonomous stabilization, and navigation algorithms.
+- 👁️ **Computer Vision & SLAM:** Currently researching 3D Gaussian Splatting (3DGS) for real-time indoor mapping.
+- 🏎️ **Formula Student Alum:** Designed braking systems for Cairo University Racing Team, including CFD and thermal stress analysis.
 
 ### 🛠️ Tech Stack & Skills
+- **Embedded Systems:** Full Diploma covering C, AVR Micro-controllers, RTOS, and Software Engineering.
+- **Robotics & Simulation:** ROS, Gazebo, Simulink, PX4, Pixhawk 4 hardware integration.
+- **Engineering Tools:** MATLAB (6-DOF Nonlinear Sim), Femap with Nastran, SolidWorks, AutoCAD.
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | `Python` `C++` `MATLAB` `C (Embedded)` |
-| **Robotics & Simulation** | `ROS` `Gazebo` `Simulink` `PX4` `Pixhawk` |
-| **Design & Analysis** | `SolidWorks` `AutoCAD` `LaTeX` `Femap with Nastran` |
+### 📂 Featured Repositories
+- **[Flight-Simulator](https://github.com/MustafaTaha27/Flight-Simulator)** - 6-DOF nonlinear UAV simulator developed in MATLAB/Simulink for morphing wing research.
+- **[Satellite-Orbit-Simulation](https://github.com/MustafaTaha27/Satellite-Orbit-Simulation)** - MATLAB tool for 3D satellite ground track visualization and orbit modeling.
+- **[Vehicle-Control-Unit](https://github.com/MustafaTaha27/Vehicle-Control-Unit)** - C implementation of a vehicle control system (VRIO, Control, Display modules).
 
 ---
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_NEW_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MustafaTaha27&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTaha27&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NEW_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 📂 Featured Projects
-
-- **[6-DOF Flight Simulator](https://github.com/YOUR_NEW_USERNAME/REPO_NAME)**
-  A nonlinear MATLAB/Simulink simulator for morphing wing UAVs, modeling realistic dynamics without the Aerospace Blockset.
-  
-- **[Real-time 3DGS-SLAM](https://github.com/YOUR_NEW_USERNAME/REPO_NAME)**
-  Modifying Gaussian Splatting for real-time indoor reconstruction in GPS-denied environments.
-
-- **[Satellite Orbit Tracker](https://github.com/YOUR_NEW_USERNAME/REPO_NAME)**
-  3D MATLAB simulation of ground tracks and ECI/ECEF orbital conversions.
 
 ---
 
