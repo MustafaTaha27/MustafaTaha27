@@ -1,20 +1,56 @@
-# Hi, I'm Mustafa Taha Soliman 👋
+# 🚀 Mustafa Taha Soliman | Aerospace Engineer
 
-Senior Aerospace Engineering student at Cairo University passionate about **Autonomous Systems**, **Robotics**, and **Computer Vision**. I specialize in bridging the gap between aerospace dynamics and intelligent software.
+<p align="left">
+  <a href="https://linkedin.com/in/mostafa275">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tahasoliman268@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-### 🔭 Current Focus
-- **Graduation Project:** Developing an autonomous indoor mapping drone for GPS-denied environments.
-- **Image Reconstruction:** Implementing real-time 3D Gaussian Splatting modified for simultaneous SLAM and reconstruction.
-- [cite_start]**UAV Flight Simulation:** Developed a 6-DOF nonlinear flight simulator in MATLAB/Simulink[cite: 40].
+### 👨‍🚀 About Me
+- 🎓 **Senior Aerospace Engineering Student** at Cairo University.
+- 🛸 **Control Sub-team Lead** at UDC Lab, specializing in UAV navigation and stability.
+- 👁️ **Computer Vision Enthusiast** currently working on real-time 3D Gaussian Splatting for SLAM.
+- 🏎️ **Formula Student Alum** with experience in CFD and structural analysis for braking systems.
 
-### 🛠️ Tech Stack
-- [cite_start]**Languages:** Python, C++, MATLAB, C (Embedded Systems)[cite: 40].
-- **Robotics:** ROS (Noetic/ROS 2), Gazebo, PX4, Pixhawk 4.
-- [cite_start]**Engineering Tools:** SolidWorks, Simulink, AutoCAD, LaTeX[cite: 40].
+---
 
-### 🏎️ Experience Highlights
-- [cite_start]**UDC Lab:** Developed and validated autonomous stabilization algorithms for UAVs[cite: 22].
-- [cite_start]**Cairo University Racing Team:** Designed and analyzed efficient braking systems for Formula Student[cite: 31, 32].
-- [cite_start]**Alstom Intern:** Worked on signaling design, SCADA, and train control[cite: 17, 18].
+### 🛠️ Tech Stack & Skills
 
-📫 **Reach me at:** [tahasoliman268@gmail.com](mailto:tahasoliman268@gmail.com) | [cite_start][LinkedIn](https://linkedin.com/in/mostafa275) [cite: 3, 7]
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | `Python` `C++` `MATLAB` `C (Embedded)` |
+| **Robotics & Simulation** | `ROS` `Gazebo` `Simulink` `PX4` `Pixhawk` |
+| **Design & Analysis** | `SolidWorks` `AutoCAD` `LaTeX` `Femap with Nastran` |
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_NEW_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NEW_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+- **[6-DOF Flight Simulator](https://github.com/YOUR_NEW_USERNAME/REPO_NAME)**
+  A nonlinear MATLAB/Simulink simulator for morphing wing UAVs, modeling realistic dynamics without the Aerospace Blockset.
+  
+- **[Real-time 3DGS-SLAM](https://github.com/YOUR_NEW_USERNAME/REPO_NAME)**
+  Modifying Gaussian Splatting for real-time indoor reconstruction in GPS-denied environments.
+
+- **[Satellite Orbit Tracker](https://github.com/YOUR_NEW_USERNAME/REPO_NAME)**
+  3D MATLAB simulation of ground tracks and ECI/ECEF orbital conversions.
+
+---
+
+<p align="center">
+  <i>"Passionate about bridging the gap between aerospace dynamics and intelligent software."</i>
+</p>
