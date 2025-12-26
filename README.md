@@ -36,5 +36,5 @@
 ---
 
 <p align="center">
-  <i>"Passionate about bridging the gap between aerospace dynamics and intelligent software."</i>
+  <i>"Passionate about bridging the gap between aerospace and Autonomous Systems."</i>
 </p>
