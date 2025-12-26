@@ -20,19 +20,6 @@
 - **Robotics & Simulation:** ROS, Gazebo, Simulink, PX4, Pixhawk 4 hardware integration.
 - **Engineering Tools:** MATLAB (6-DOF Nonlinear Sim), Femap with Nastran, SolidWorks, AutoCAD.
 
-### 📂 Featured Repositories
-- **[Flight-Simulator](https://github.com/MustafaTaha27/Flight-Simulator)** - 6-DOF nonlinear UAV simulator developed in MATLAB/Simulink for morphing wing research.
-- **[Satellite-Orbit-Simulation](https://github.com/MustafaTaha27/Satellite-Orbit-Simulation)** - MATLAB tool for 3D satellite ground track visualization and orbit modeling.
-- **[Vehicle-Control-Unit](https://github.com/MustafaTaha27/Vehicle-Control-Unit)** - C implementation of a vehicle control system (VRIO, Control, Display modules).
-
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MustafaTaha27&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTaha27&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ---
 
 <p align="center">
