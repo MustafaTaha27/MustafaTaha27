@@ -13,7 +13,6 @@
 - 🎓 **Senior Aerospace Engineering Student** at Cairo University.
 - 🛸 **Control Sub-team Member @ UDC Lab:** Specialized in UAV flight control systems, autonomous stabilization, and navigation algorithms.
 - 👁️ **Computer Vision & SLAM:** Currently researching 3D Gaussian Splatting (3DGS) for real-time indoor mapping.
-- 🏎️ **Formula Student Alum:** Designed braking systems for Cairo University Racing Team, including CFD and thermal stress analysis.
 
 ### 🛠️ Tech Stack & Skills
 - **Embedded Systems:** Full Diploma covering C, AVR Micro-controllers, RTOS, and Software Engineering.
